@@ -1,0 +1,13 @@
+*.log
+__pycache__
+
+src/input/*
+src/output/*
+
+*.sqlite
+
+*.temp.sql
+
+files.txt
+
+.bash_history

@@ -1,0 +1,19 @@
+*.log
+__pycache__
+
+# environmental files
+.env
+!template.env
+
+src/input/*
+!src/input/.keep
+
+src/output/*
+!src/output/.keep
+
+*.temp.sql
+*.bak
+*.txt
+files.txt
+
+*.sqlite
